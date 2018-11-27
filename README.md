@@ -1,1 +1,1 @@
-# Simple-SPP-Manage
+#program pengolah pembayaran spp sekolah sederhana
